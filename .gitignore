@@ -1,0 +1,9 @@
+bin/
+cocos2d/
+linux-build/
+proj.ios_mac/
+proj.win32/
+proj.linux/
+proj.android/
+Resources/
+
